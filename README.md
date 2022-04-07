@@ -20,3 +20,6 @@ If you want to learn more about Jupyter Notebooks as a technology, check out the
 
 
 https://medium.com/pythonland/30-python-best-practices-tips-and-tricks-19172564f9c
+
+
+Qwiklabs  https://www.qwiklabs.com/
