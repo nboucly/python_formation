@@ -17,4 +17,6 @@ If you want to learn more about Jupyter Notebooks as a technology, check out the
     How to use Jupyter Notebooks, by codeacademy.com https://www.codecademy.com/articles/how-to-use-jupyter-notebooks
 
     Teaching and Learning with Jupyter, by university professors using Jupyter   https://jupyter4edu.github.io/jupyter-edu-book/
-    
+
+
+https://medium.com/pythonland/30-python-best-practices-tips-and-tricks-19172564f9c
